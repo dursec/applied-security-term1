@@ -12,4 +12,4 @@ Work through a fictional forensics scenario: [README](practical-4-forensics/READ
 
 ## Practical 5: IoT firmware analysis
 
-Analyse the firmware of a low-cost IoT device to find various security flaws: README
+Analyse the firmware of a low-cost IoT device to find various security flaws: [README](practical-5-iot/README.md)
