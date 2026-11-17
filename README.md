@@ -13,3 +13,7 @@ Work through a fictional forensics scenario: [README](practical-4-forensics/READ
 ## Practical 5: IoT firmware analysis
 
 Analyse the firmware of a low-cost IoT device to find various security flaws: [README](practical-5-iot/README.md)
+
+## Practical 6: Remote timing attack
+
+Exploit a timing leak in MAC tag comparison: [README](practical-6-timing-attack-compare/README.md)
