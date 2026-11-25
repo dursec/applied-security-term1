@@ -17,3 +17,7 @@ Analyse the firmware of a low-cost IoT device to find various security flaws: [R
 ## Practical 6: Remote timing attack
 
 Exploit a timing leak in MAC tag comparison: [README](practical-6-timing-attack-compare/README.md)
+
+## Practical 7: Timing attacks on AES
+
+Exploit timing leak in AES `xtime()`: [README](practical-7-timing-attacks-aes/README.md)
